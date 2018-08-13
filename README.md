@@ -40,8 +40,3 @@ Locate in Datasets folder with defintion under folder directory.
      - calculate confusion matrix
      - display decision tree
      - display important features
-
-
-
-#### file part
-- decision_tree_entropy_Target.pdf and decision_tree_entropy_outcome.pdf in yuke's folder are decision tree graphs.
